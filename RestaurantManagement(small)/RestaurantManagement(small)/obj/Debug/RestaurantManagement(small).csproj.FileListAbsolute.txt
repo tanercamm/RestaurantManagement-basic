@@ -1,0 +1,11 @@
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\bin\Debug\RestaurantManagement(small).exe.config
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\bin\Debug\RestaurantManagement(small).exe
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\bin\Debug\RestaurantManagement(small).pdb
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\obj\Debug\RestaurantManagement(small).csproj.AssemblyReference.cache
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\obj\Debug\RestaurantManagement(small).csproj.SuggestedBindingRedirects.cache
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\obj\Debug\RestaurantManagement_small_.Form1.resources
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\obj\Debug\RestaurantManagement_small_.Properties.Resources.resources
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\obj\Debug\RestaurantManagement(small).csproj.GenerateResource.cache
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\obj\Debug\RestaurantManagement(small).csproj.CoreCompileInputs.cache
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\obj\Debug\RestaurantManagement(small).exe
+D:\csharp\RestaurantManagement(small)\RestaurantManagement(small)\obj\Debug\RestaurantManagement(small).pdb
